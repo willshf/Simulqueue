@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Stack()
+comment0.text=\r\n\ Ein\ leerer\ Stapel\ wird\ erzeugt.\ Objekte,\ die\ in\ diesem\ Stapel\ verwaltet\r\n\ werden,\ muessen\ vom\ Typ\ ContentType\ sein.\r\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\r\n\ Die\ Anfrage\ liefert\ den\ Wert\ true,\ wenn\ der\ Stapel\ keine\ Objekte\r\n\ enthaelt,\ sonst\ liefert\ sie\ den\ Wert\ false.\r\n\ \r\n\ @return\ true,\ falls\ der\ Stapel\ leer\ ist,\ sonst\ false\r\n
+comment2.params=pContent
+comment2.target=void\ push(java.lang.Object)
+comment2.text=\r\n\ Das\ Objekt\ pContentType\ wird\ oben\ auf\ den\ Stapel\ gelegt.\ Falls\r\n\ pContentType\ gleich\ null\ ist,\ bleibt\ der\ Stapel\ unveraendert.\r\n\ \r\n\ @param\ pContent\ \r\n\ \ \ \ \ \ \ \ das\ einzufuegende\ Objekt\ vom\ Typ\ ContentType\r\n
+comment3.params=
+comment3.target=void\ pop()
+comment3.text=\r\n\ Das\ zuletzt\ eingefuegte\ Objekt\ wird\ von\ dem\ Stapel\ entfernt.\ Falls\ der\r\n\ Stapel\ leer\ ist,\ bleibt\ er\ unveraendert.\r\n
+comment4.params=
+comment4.target=java.lang.Object\ top()
+comment4.text=\r\n\ Die\ Anfrage\ liefert\ das\ oberste\ Stapelobjekt.\ Der\ Stapel\ bleibt\r\n\ unveraendert.\ Falls\ der\ Stapel\ leer\ ist,\ wird\ null\ zurueckgegeben.\r\n\ \r\n\ @return\ das\ oberste\ Stackelement\ vom\ Typ\ ContentType\ oder\ null,\ falls\r\n\ \ \ \ \ \ \ \ \ der\ Stack\ leer\ ist\r\n
+numComments=5

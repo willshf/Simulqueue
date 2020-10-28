@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SimulQueue()
+comment0.text=Methoden\ der\ Klasse\ SimulQueue\ *
+comment1.params=pObject
+comment1.target=void\ enqueue(java.lang.Object)
+comment1.text=\r\n\ F\u00FCgt\ ein\ Element\ der\ Warteschlange\ hinzu\r\n
+comment2.params=
+comment2.target=void\ dequeue()
+comment2.text=\r\n\ Entfernt\ das\ erste\ Element\ aus\ der\ Warteschlange\r\n
+comment3.params=StackToReverse\ cacheStack
+comment3.target=void\ reverse(Stack,\ Stack)
+comment3.text=\r\n\ Dreht\ StackToReverse\ auf\ den\ cacheStack\ um\r\n
+comment4.params=
+comment4.target=java.lang.Object\ front()
+comment4.text=\r\n\ Gibt\ das\ erste\ Element\ der\ Warteschlange\ zur\u00FCck\r\n\ \r\n\ @return\ ContentType\r\n
+numComments=5
